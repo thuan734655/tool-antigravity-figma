@@ -1,0 +1,19 @@
+{
+  "name": "Antigravity Figma Bridge",
+  "id": "antigravity-figma-bridge",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ],
+    "devAllowedDomains": [
+      "http://localhost:8999",
+      "ws://localhost:8999"
+    ]
+  }
+}
